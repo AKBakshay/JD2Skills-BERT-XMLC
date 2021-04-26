@@ -1,5 +1,6 @@
 # JD2Skills-BERT-XMLC
-Code and Dataset for the Bhola et al. (2020) Retrieving Skills from Job Descriptions: A Language Model Based Extreme Multi-label Classification Framework
+**Bhola et al. (2020) Retrieving Skills from Job Descriptions: A Language Model Based Extreme Multi-label Classification Framework** <br> <br>
+Complete code is provided in this [repo](https://github.com/WING-NUS/JD2Skills-BERT-XMLC)
 
 ## Dataset
 
